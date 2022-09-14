@@ -1,10 +1,11 @@
 # Flask-Todo
-## url
+## URL
 https://flasktodosm.herokuapp.com/
 ## Run the website locally
 ```
 pip install virtualenv
 virtualenv env
+pip install -r requirements.txt
 python app.py
 ```
 ## Stack
